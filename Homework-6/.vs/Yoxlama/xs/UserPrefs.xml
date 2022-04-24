@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{E7B40F00-CBFF-4DE8-9782-8C8E8095706C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Yoxlama/Program.cs">
+    <Files>
+      <File FileName="Yoxlama/Student.cs" Line="18" Column="29" />
+      <File FileName="Yoxlama/Group.cs" />
+      <File FileName="Yoxlama/Program.cs" Line="30" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Yoxlama" expanded="True">
+            <Node name="Homework-6" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Homework-6 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

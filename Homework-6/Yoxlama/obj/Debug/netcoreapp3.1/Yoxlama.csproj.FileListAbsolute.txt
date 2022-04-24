@@ -1,0 +1,13 @@
+/Users/shahrom/Projects/Yoxlama/Yoxlama/bin/Debug/netcoreapp3.1/Yoxlama.deps.json
+/Users/shahrom/Projects/Yoxlama/Yoxlama/bin/Debug/netcoreapp3.1/Yoxlama.runtimeconfig.json
+/Users/shahrom/Projects/Yoxlama/Yoxlama/bin/Debug/netcoreapp3.1/Yoxlama.runtimeconfig.dev.json
+/Users/shahrom/Projects/Yoxlama/Yoxlama/bin/Debug/netcoreapp3.1/Yoxlama.dll
+/Users/shahrom/Projects/Yoxlama/Yoxlama/bin/Debug/netcoreapp3.1/Yoxlama.pdb
+/Users/shahrom/Projects/Yoxlama/Yoxlama/obj/Debug/netcoreapp3.1/Yoxlama.csproj.AssemblyReference.cache
+/Users/shahrom/Projects/Yoxlama/Yoxlama/obj/Debug/netcoreapp3.1/Yoxlama.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shahrom/Projects/Yoxlama/Yoxlama/obj/Debug/netcoreapp3.1/Yoxlama.AssemblyInfoInputs.cache
+/Users/shahrom/Projects/Yoxlama/Yoxlama/obj/Debug/netcoreapp3.1/Yoxlama.AssemblyInfo.cs
+/Users/shahrom/Projects/Yoxlama/Yoxlama/obj/Debug/netcoreapp3.1/Yoxlama.csproj.CoreCompileInputs.cache
+/Users/shahrom/Projects/Yoxlama/Yoxlama/obj/Debug/netcoreapp3.1/Yoxlama.dll
+/Users/shahrom/Projects/Yoxlama/Yoxlama/obj/Debug/netcoreapp3.1/Yoxlama.pdb
+/Users/shahrom/Projects/Yoxlama/Yoxlama/obj/Debug/netcoreapp3.1/Yoxlama.genruntimeconfig.cache

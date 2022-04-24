@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.21
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework-6", "Yoxlama\Homework-6.csproj", "{E7B40F00-CBFF-4DE8-9782-8C8E8095706C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7B40F00-CBFF-4DE8-9782-8C8E8095706C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7B40F00-CBFF-4DE8-9782-8C8E8095706C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7B40F00-CBFF-4DE8-9782-8C8E8095706C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7B40F00-CBFF-4DE8-9782-8C8E8095706C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {564F80A3-C0DB-4F12-8DF8-F86F1D1EF65F}
+	EndGlobalSection
+EndGlobal
